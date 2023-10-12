@@ -2,7 +2,7 @@
 
 
 
-[img](./assets/preview.png)
+![img](./assets/preview.png)
 吐司机外型的读卡器
 
 ### 注意事项
